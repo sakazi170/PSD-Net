@@ -1,4 +1,4 @@
-# Enhancing Multi-Modal Brain Tumor Segmentation via Asymmetric Primary-Secondary Dynamic Network
+# Rethinking Modality Symmetry: A Primary-Secondary Dynamic Network for Multi-Modal Brain Tumor Segmentation
 ## Usage
 ### Data Preparation
 Please download BraTS 2020 data according to https://www.med.upenn.edu/cbica/brats2020/data.html.
